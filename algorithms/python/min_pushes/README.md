@@ -25,4 +25,4 @@ v1: Первая реализация. Работает, использует п
 
 ```bash
 cd algorithms/python/min_pushes
-python solution.py
+python solution_v1.py
