@@ -9,7 +9,7 @@
 
 | Эскиз с нумерацией узлов и стержней | Результат в AutoCAD |
 |---|---|
-| ![Эскиз](parametric-truss-generator/screenshots/sketch.jpg) | ![Результат](parametric-truss-generator/screenshots/task1.jpg) |
+| ![Эскиз](screenshots/sketch.jpg) | ![Результат](screenshots/task1.jpg) |
 
 ## Часть 2 - параметрическая ферма
 `src/task2_oop.cpp`: класс `Constructor` сам вычисляет узлы и стержни по
@@ -19,7 +19,7 @@
 
 | Панелей 10, длина панелей 20, высота 50, высота линии 25 | Панелей 30, длина 20, высота 80, высота линии 30 | Панелей 8, длина 10, высота 30, высота линии 15 |
 |---|---|---|
-| ![](parametric-truss-generator/screenshots/task2_1.jpg) | ![](parametric-truss-generator/screenshots/task2_2.jpg) | ![](parametric-truss-generator/screenshots/task2_3.jpg) |
+| ![](screenshots/task2_1.jpg) | ![](screenshots/task2_2.jpg) | ![](screenshots/task2_3.jpg) |
 
 ## Технологии
 C++, ООП, файловый ввод-вывод, формат DXF, AutoCAD
